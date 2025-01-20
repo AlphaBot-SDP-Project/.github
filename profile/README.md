@@ -13,6 +13,7 @@
 * Tiles arranged in a 3x3 initial storage / initial storage of tiles organised around arm.
 * Sparse initial setup (optimise later if possible).
 * Track chips so that they aren't lost.
+* Tiles that are going to be moved can be 'pushed up' so that the arm tries to grab them at a specific level (safer and more stable for other tiles).
 
 ## Project Proposal 
 * Pitch: Review what was presented on Friday
@@ -22,7 +23,6 @@
 * Outcome: Making a word playing game robot 
 * Tasks: UI, Robot Arm (Arm Design and Arm Software Development), Board Design and Implementation, Game Software, 
 * Risks:
-* Tiles that are going to be moved can be 'pushed up' so that the arm tries to grab them at a specific level (safer and more stable for other tiles).
 
 
 
