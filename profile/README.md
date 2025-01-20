@@ -19,7 +19,7 @@
 * Users: User Stories and Persona
 * Impact: Children learning, 
 * Outcome: Making a word playing game robot 
-* Tasks: UI, Robot Arm, Board Design and Implementation, Game Software, 
+* Tasks: UI, Robot Arm (Arm Design and Arm Software Development), Board Design and Implementation, Game Software, 
 * Risks:
 
 
