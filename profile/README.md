@@ -2,6 +2,7 @@
 
 ## Plan:
 * Create the project proposal.
+* Experiment and tinker around with hardware.
 
 ## Very very rough ideas (to be changed; variable)
 * Safety: sensor for kids arm that deactivates robot, magnets.
@@ -21,6 +22,7 @@
 * Outcome: Making a word playing game robot 
 * Tasks: UI, Robot Arm (Arm Design and Arm Software Development), Board Design and Implementation, Game Software, 
 * Risks:
+* Tiles that are going to be moved can be 'pushed up' so that the arm tries to grab them at a specific level (safer and more stable for other tiles).
 
 
 
