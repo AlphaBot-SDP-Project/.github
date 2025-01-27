@@ -14,7 +14,7 @@
 * Track chips so that they aren't lost.
 * Tiles that are going to be moved can be 'pushed up' so that the arm tries to grab them at a specific level (safer and more stable for other tiles).
 
-#### We should have a 3D model (might get more marks, and would be easier for us to envision how things are supposed to look
+### We should have a 3D model (might get more marks, and would be easier for us to envision how things are supposed to look).
 
 ## Board Plan (Joseph & Vincent)
 * Determine measurements.
