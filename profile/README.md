@@ -1,7 +1,6 @@
 # AlphaBot (Group 11)
 
 ## Plan:
-* Create the project proposal.
 * Experiment and tinker around with hardware.
 
 ## Very very rough ideas (to be changed; variable)
@@ -15,14 +14,10 @@
 * Track chips so that they aren't lost.
 * Tiles that are going to be moved can be 'pushed up' so that the arm tries to grab them at a specific level (safer and more stable for other tiles).
 
-## Project Proposal 
-* Pitch: Review what was presented on Friday
-* Team: Design, Hardware, Software
-* Users: User Stories and Persona
-* Impact: Children learning, 
-* Outcome: Making a word playing game robot 
-* Tasks: UI, Robot Arm (Arm Design and Arm Software Development), Board Design and Implementation, Game Software, 
-* Risks:
+#### We should have a 3D model (might get more marks, and would be easier for us to envision how things are supposed to look
 
-
-
+## Board Plan (Joseph & Vincent)
+* Determine measurements.
+* Determine how the components of the tiles will fit together.
+* 3D print a prototype tile (with focus on the measurements etc.)
+* Select a dyslexia friendly font and colourscheme.
