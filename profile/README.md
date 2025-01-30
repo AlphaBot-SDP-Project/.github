@@ -1,5 +1,9 @@
 # AlphaBot (Group 11)
 
+# Current Specifications:
+* Tiles: 40mm x 40mm x 10mm
+* Board: base - 440mm x 440mm x 50mm (10 tiles x 10 tiles); fences - 44mm x 44mm x 8mm.
+
 ## Plan:
 * Experiment and tinker around with hardware.
 
